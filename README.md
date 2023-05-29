@@ -3,6 +3,7 @@
 ## Churn Rate Analysis Project
 
 This project focuses on analyzing churn rates in order to understand customer retention and make data-driven decisions to mitigate customer churn. The analysis is performed using Excel and Power BI, providing a comprehensive approach to explore churn rate trends and gain actionable insights.
+<img src="https://github.com/TejaswiniNikumbh/Churn-Analysis/blob/main/DashBoard.png" alt="Image Description" width="500">
 
 
 
